@@ -1,160 +1,242 @@
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\bin\Debug\net9.0\appsettings.Development.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\bin\Debug\net9.0\appsettings.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\bin\Debug\net9.0\ConnectFour.staticwebassets.runtime.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\bin\Debug\net9.0\ConnectFour.staticwebassets.endpoints.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\bin\Debug\net9.0\ConnectFour.exe
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\bin\Debug\net9.0\ConnectFour.deps.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\bin\Debug\net9.0\ConnectFour.runtimeconfig.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\bin\Debug\net9.0\ConnectFour.dll
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\bin\Debug\net9.0\ConnectFour.pdb
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\ConnectFour.AssemblyInfoInputs.cache
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\ConnectFour.AssemblyInfo.cs
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\ConnectFour.csproj.CoreCompileInputs.cache
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\ConnectFour.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\rjimswa.dswa.cache.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\scopedcss\bundle\ConnectFour.styles.css
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\scopedcss\projectbundle\ConnectFour.bundle.scp.css
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\r88otocwko-khy4lop6wu.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\6vdj6xy72i-bqjiyaj88i.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\xy7kcbm4a6-c2jlpeoesf.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\j3e96mdx3a-erw9l3u2r3.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\xg0wbnk06f-aexeepp0ev.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\0gqm158y9n-d7shbmvgxk.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\v3lepsurc9-ausgxo2sd3.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\zid19tqsnr-k8d9w2qqmf.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\6gjm8pfrj9-cosvhxvwiu.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\1g9u5543g4-ub07r2b239.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\sjlv64301y-fvhpjtyr6v.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\v9z286h614-b7pk76d08c.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\zy263ewjg4-fsbi9cje9m.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\ocwxeyowu8-rzd6atqjts.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\aiuftwhp6c-ee0r1s7dh0.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\isytckrz0i-dxx9fxp4il.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\1x7aleho24-jd9uben2k1.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\vztqjjfu19-khv3u5hwcm.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\mbz7vmye7f-r4e9w2rdcm.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\wei6huon76-lcd1t2u6c8.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\1r2prj9um1-c2oey78nd0.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\lvjcpxjxl4-tdbxkamptv.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\avhxbz7f4o-j5mq2jizvt.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\lni9sfupnt-06098lyss8.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\vhh6rjf6ik-nvvlpmu67g.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\2fyqgjagdh-s35ty4nyc5.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\dcz8f57nn3-pj5nd1wqec.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\f9fhic9e10-46ein0sx1k.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\t86vdxdtpv-v0zj4ognzu.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\7xyxan6i9g-37tfw0ft22.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\rbc9p2tb8s-hrwsygsryq.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\t4bk34t829-pk9g2wxc8p.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\ccavezbqcm-ft3s53vfgj.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\n8mkkbdx6l-6cfz1n2cew.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\mfa4jykw23-6pdc2jztkx.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\z8i7ll52uy-493y06b0oq.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\4kz0wt3rz1-iovd86k7lj.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\0tnmrvzw0j-vr1egmr9el.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\w5wiiz73kp-kbrnm935zg.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\xfjustow0o-jj8uyg4cgr.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\gircc00232-y7v9cxd14o.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\1e9lbd828s-notf2xhcfb.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\gr0e8cuikz-h1s4sie4z3.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\ryt7pnzvl8-63fj8s7r0e.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\3mozzcgcz6-0j3bgjxly4.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\8rgyt56fu5-dr3cpskrlo.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\compressed\i191p69b07-dr3cpskrlo.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\staticwebassets.build.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\staticwebassets.build.json.cache
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\staticwebassets.development.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\ConnectFour.dll
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\refint\ConnectFour.dll
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\ConnectFour.pdb
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\ConnectFour.genruntimeconfig.cache
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame\ConnectFour\obj\Debug\net9.0\ref\ConnectFour.dll
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\bin\Debug\net9.0\appsettings.Development.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\bin\Debug\net9.0\appsettings.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\bin\Debug\net9.0\ConnectFour.staticwebassets.runtime.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\bin\Debug\net9.0\ConnectFour.staticwebassets.endpoints.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\bin\Debug\net9.0\ConnectFour.exe
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\bin\Debug\net9.0\ConnectFour.deps.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\bin\Debug\net9.0\ConnectFour.runtimeconfig.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\bin\Debug\net9.0\ConnectFour.dll
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\bin\Debug\net9.0\ConnectFour.pdb
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\ConnectFour.AssemblyInfoInputs.cache
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\ConnectFour.AssemblyInfo.cs
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\ConnectFour.csproj.CoreCompileInputs.cache
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\ConnectFour.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\ConnectFour.sourcelink.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\rjimswa.dswa.cache.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\scopedcss\Components\Board.razor.rz.scp.css
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\scopedcss\bundle\ConnectFour.styles.css
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\scopedcss\projectbundle\ConnectFour.bundle.scp.css
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\r88otocwko-khy4lop6wu.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\6vdj6xy72i-bqjiyaj88i.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\xy7kcbm4a6-c2jlpeoesf.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\j3e96mdx3a-erw9l3u2r3.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\xg0wbnk06f-aexeepp0ev.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\0gqm158y9n-d7shbmvgxk.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\v3lepsurc9-ausgxo2sd3.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\zid19tqsnr-k8d9w2qqmf.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\6gjm8pfrj9-cosvhxvwiu.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\1g9u5543g4-ub07r2b239.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\sjlv64301y-fvhpjtyr6v.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\v9z286h614-b7pk76d08c.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\zy263ewjg4-fsbi9cje9m.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\ocwxeyowu8-rzd6atqjts.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\aiuftwhp6c-ee0r1s7dh0.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\isytckrz0i-dxx9fxp4il.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\1x7aleho24-jd9uben2k1.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\vztqjjfu19-khv3u5hwcm.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\mbz7vmye7f-r4e9w2rdcm.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\wei6huon76-lcd1t2u6c8.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\1r2prj9um1-c2oey78nd0.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\lvjcpxjxl4-tdbxkamptv.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\avhxbz7f4o-j5mq2jizvt.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\lni9sfupnt-06098lyss8.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\vhh6rjf6ik-nvvlpmu67g.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\2fyqgjagdh-s35ty4nyc5.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\dcz8f57nn3-pj5nd1wqec.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\f9fhic9e10-46ein0sx1k.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\t86vdxdtpv-v0zj4ognzu.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\7xyxan6i9g-37tfw0ft22.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\rbc9p2tb8s-hrwsygsryq.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\t4bk34t829-pk9g2wxc8p.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\ccavezbqcm-ft3s53vfgj.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\n8mkkbdx6l-6cfz1n2cew.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\mfa4jykw23-6pdc2jztkx.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\z8i7ll52uy-493y06b0oq.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\4kz0wt3rz1-iovd86k7lj.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\0tnmrvzw0j-vr1egmr9el.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\w5wiiz73kp-kbrnm935zg.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\xfjustow0o-jj8uyg4cgr.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\gircc00232-y7v9cxd14o.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\1e9lbd828s-notf2xhcfb.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\gr0e8cuikz-h1s4sie4z3.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\ryt7pnzvl8-63fj8s7r0e.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\3mozzcgcz6-0j3bgjxly4.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\staticwebassets.build.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\staticwebassets.build.json.cache
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\staticwebassets.development.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\ConnectFour.dll
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\refint\ConnectFour.dll
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\ConnectFour.pdb
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\ConnectFour.genruntimeconfig.cache
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\ref\ConnectFour.dll
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\l3ivc6nvnl-zl442pchr3.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\bjwburxrvu-6y3dv3z6ki.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\8rgyt56fu5-2izsvimxwm.gz
-C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE325\week04\FourGame1\FourGame\connectfour\obj\Debug\net9.0\compressed\i191p69b07-2izsvimxwm.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/bin/Debug/net9.0/appsettings.Development.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/bin/Debug/net9.0/appsettings.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/bin/Debug/net9.0/ConnectFour.staticwebassets.runtime.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/bin/Debug/net9.0/ConnectFour.staticwebassets.endpoints.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/bin/Debug/net9.0/ConnectFour.exe
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/bin/Debug/net9.0/ConnectFour.deps.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/bin/Debug/net9.0/ConnectFour.runtimeconfig.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/bin/Debug/net9.0/ConnectFour.dll
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/bin/Debug/net9.0/ConnectFour.pdb
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/rpswa.dswa.cache.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.AssemblyInfoInputs.cache
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.AssemblyInfo.cs
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.csproj.CoreCompileInputs.cache
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/rjimswa.dswa.cache.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/scopedcss/bundle/ConnectFour.styles.css
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/scopedcss/projectbundle/ConnectFour.bundle.scp.css
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/r88otocwko-khy4lop6wu.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/6vdj6xy72i-bqjiyaj88i.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/xy7kcbm4a6-c2jlpeoesf.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/j3e96mdx3a-erw9l3u2r3.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/xg0wbnk06f-aexeepp0ev.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/0gqm158y9n-d7shbmvgxk.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/v3lepsurc9-ausgxo2sd3.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/zid19tqsnr-k8d9w2qqmf.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/6gjm8pfrj9-cosvhxvwiu.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/1g9u5543g4-ub07r2b239.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/sjlv64301y-fvhpjtyr6v.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/v9z286h614-b7pk76d08c.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/zy263ewjg4-fsbi9cje9m.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/ocwxeyowu8-rzd6atqjts.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/aiuftwhp6c-ee0r1s7dh0.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/isytckrz0i-dxx9fxp4il.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/1x7aleho24-jd9uben2k1.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/vztqjjfu19-khv3u5hwcm.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/mbz7vmye7f-r4e9w2rdcm.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/wei6huon76-lcd1t2u6c8.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/1r2prj9um1-c2oey78nd0.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/lvjcpxjxl4-tdbxkamptv.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/avhxbz7f4o-j5mq2jizvt.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/lni9sfupnt-06098lyss8.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/vhh6rjf6ik-nvvlpmu67g.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/2fyqgjagdh-s35ty4nyc5.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/dcz8f57nn3-pj5nd1wqec.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/f9fhic9e10-46ein0sx1k.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/t86vdxdtpv-v0zj4ognzu.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/7xyxan6i9g-37tfw0ft22.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/rbc9p2tb8s-hrwsygsryq.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/t4bk34t829-pk9g2wxc8p.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/ccavezbqcm-ft3s53vfgj.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/n8mkkbdx6l-6cfz1n2cew.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/mfa4jykw23-6pdc2jztkx.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/z8i7ll52uy-493y06b0oq.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/4kz0wt3rz1-iovd86k7lj.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/0tnmrvzw0j-vr1egmr9el.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/w5wiiz73kp-kbrnm935zg.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/xfjustow0o-jj8uyg4cgr.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/gircc00232-y7v9cxd14o.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/1e9lbd828s-notf2xhcfb.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/gr0e8cuikz-h1s4sie4z3.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/ryt7pnzvl8-63fj8s7r0e.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/3mozzcgcz6-0j3bgjxly4.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/8rgyt56fu5-dr3cpskrlo.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/i191p69b07-dr3cpskrlo.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/staticwebassets.build.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/staticwebassets.build.json.cache
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/staticwebassets.development.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.dll
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/refint/ConnectFour.dll
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.pdb
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.genruntimeconfig.cache
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame/ConnectFour/obj/Debug/net9.0/ref/ConnectFour.dll
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/bin/Debug/net9.0/appsettings.Development.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/bin/Debug/net9.0/appsettings.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/bin/Debug/net9.0/ConnectFour.staticwebassets.runtime.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/bin/Debug/net9.0/ConnectFour.staticwebassets.endpoints.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/bin/Debug/net9.0/ConnectFour.exe
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/bin/Debug/net9.0/ConnectFour.deps.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/bin/Debug/net9.0/ConnectFour.runtimeconfig.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/bin/Debug/net9.0/ConnectFour.dll
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/bin/Debug/net9.0/ConnectFour.pdb
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/rpswa.dswa.cache.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/ConnectFour.AssemblyInfoInputs.cache
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/ConnectFour.AssemblyInfo.cs
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/ConnectFour.csproj.CoreCompileInputs.cache
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/ConnectFour.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/ConnectFour.sourcelink.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/rjimswa.dswa.cache.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/scopedcss/Components/Board.razor.rz.scp.css
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/scopedcss/bundle/ConnectFour.styles.css
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/scopedcss/projectbundle/ConnectFour.bundle.scp.css
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/r88otocwko-khy4lop6wu.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/6vdj6xy72i-bqjiyaj88i.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/xy7kcbm4a6-c2jlpeoesf.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/j3e96mdx3a-erw9l3u2r3.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/xg0wbnk06f-aexeepp0ev.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/0gqm158y9n-d7shbmvgxk.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/v3lepsurc9-ausgxo2sd3.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/zid19tqsnr-k8d9w2qqmf.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/6gjm8pfrj9-cosvhxvwiu.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/1g9u5543g4-ub07r2b239.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/sjlv64301y-fvhpjtyr6v.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/v9z286h614-b7pk76d08c.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/zy263ewjg4-fsbi9cje9m.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/ocwxeyowu8-rzd6atqjts.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/aiuftwhp6c-ee0r1s7dh0.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/isytckrz0i-dxx9fxp4il.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/1x7aleho24-jd9uben2k1.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/vztqjjfu19-khv3u5hwcm.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/mbz7vmye7f-r4e9w2rdcm.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/wei6huon76-lcd1t2u6c8.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/1r2prj9um1-c2oey78nd0.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/lvjcpxjxl4-tdbxkamptv.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/avhxbz7f4o-j5mq2jizvt.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/lni9sfupnt-06098lyss8.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/vhh6rjf6ik-nvvlpmu67g.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/2fyqgjagdh-s35ty4nyc5.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/dcz8f57nn3-pj5nd1wqec.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/f9fhic9e10-46ein0sx1k.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/t86vdxdtpv-v0zj4ognzu.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/7xyxan6i9g-37tfw0ft22.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/rbc9p2tb8s-hrwsygsryq.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/t4bk34t829-pk9g2wxc8p.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/ccavezbqcm-ft3s53vfgj.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/n8mkkbdx6l-6cfz1n2cew.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/mfa4jykw23-6pdc2jztkx.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/z8i7ll52uy-493y06b0oq.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/4kz0wt3rz1-iovd86k7lj.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/0tnmrvzw0j-vr1egmr9el.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/w5wiiz73kp-kbrnm935zg.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/xfjustow0o-jj8uyg4cgr.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/gircc00232-y7v9cxd14o.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/1e9lbd828s-notf2xhcfb.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/gr0e8cuikz-h1s4sie4z3.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/ryt7pnzvl8-63fj8s7r0e.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/3mozzcgcz6-0j3bgjxly4.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/staticwebassets.build.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/staticwebassets.build.json.cache
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/staticwebassets.development.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/ConnectFour.dll
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/refint/ConnectFour.dll
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/ConnectFour.pdb
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/ConnectFour.genruntimeconfig.cache
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/ref/ConnectFour.dll
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/l3ivc6nvnl-zl442pchr3.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/bjwburxrvu-6y3dv3z6ki.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/8rgyt56fu5-2izsvimxwm.gz
+C:/Users/cmrs/OneDrive - PETROBRAS/Documents/GitHub/CSE325/week04/FourGame1/FourGame/connectfour/obj/Debug/net9.0/compressed/i191p69b07-2izsvimxwm.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/bin/Debug/net9.0/appsettings.Development.json
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/bin/Debug/net9.0/appsettings.json
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/bin/Debug/net9.0/ConnectFour.staticwebassets.runtime.json
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/bin/Debug/net9.0/ConnectFour.staticwebassets.endpoints.json
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/bin/Debug/net9.0/ConnectFour
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/bin/Debug/net9.0/ConnectFour.deps.json
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/bin/Debug/net9.0/ConnectFour.runtimeconfig.json
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/bin/Debug/net9.0/ConnectFour.dll
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/bin/Debug/net9.0/ConnectFour.pdb
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.AssemblyInfoInputs.cache
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.AssemblyInfo.cs
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.csproj.CoreCompileInputs.cache
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.MvcApplicationPartsAssemblyInfo.cache
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.sourcelink.json
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/scopedcss/Components/Board.razor.rz.scp.css
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/scopedcss/bundle/ConnectFour.styles.css
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/scopedcss/projectbundle/ConnectFour.bundle.scp.css
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/r88otocwko-w7mf952350.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/l3ivc6nvnl-zl442pchr3.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/bjwburxrvu-0lsno213zb.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/6vdj6xy72i-bqjiyaj88i.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/xy7kcbm4a6-c2jlpeoesf.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/j3e96mdx3a-erw9l3u2r3.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/xg0wbnk06f-aexeepp0ev.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/0gqm158y9n-d7shbmvgxk.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/v3lepsurc9-ausgxo2sd3.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/zid19tqsnr-k8d9w2qqmf.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/6gjm8pfrj9-cosvhxvwiu.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/1g9u5543g4-ub07r2b239.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/sjlv64301y-fvhpjtyr6v.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/v9z286h614-b7pk76d08c.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/zy263ewjg4-fsbi9cje9m.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/ocwxeyowu8-rzd6atqjts.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/aiuftwhp6c-ee0r1s7dh0.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/isytckrz0i-dxx9fxp4il.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/1x7aleho24-jd9uben2k1.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/vztqjjfu19-khv3u5hwcm.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/mbz7vmye7f-r4e9w2rdcm.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/wei6huon76-lcd1t2u6c8.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/1r2prj9um1-c2oey78nd0.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/lvjcpxjxl4-tdbxkamptv.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/avhxbz7f4o-j5mq2jizvt.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/lni9sfupnt-06098lyss8.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/vhh6rjf6ik-nvvlpmu67g.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/2fyqgjagdh-s35ty4nyc5.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/dcz8f57nn3-pj5nd1wqec.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/f9fhic9e10-46ein0sx1k.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/t86vdxdtpv-v0zj4ognzu.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/7xyxan6i9g-37tfw0ft22.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/rbc9p2tb8s-hrwsygsryq.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/t4bk34t829-pk9g2wxc8p.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/ccavezbqcm-ft3s53vfgj.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/n8mkkbdx6l-6cfz1n2cew.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/mfa4jykw23-6pdc2jztkx.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/z8i7ll52uy-493y06b0oq.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/4kz0wt3rz1-iovd86k7lj.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/0tnmrvzw0j-vr1egmr9el.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/w5wiiz73kp-kbrnm935zg.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/xfjustow0o-jj8uyg4cgr.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/gircc00232-y7v9cxd14o.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/1e9lbd828s-notf2xhcfb.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/gr0e8cuikz-h1s4sie4z3.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/ryt7pnzvl8-63fj8s7r0e.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/3mozzcgcz6-0j3bgjxly4.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/8rgyt56fu5-3a7tqsfkfw.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/compressed/i191p69b07-3a7tqsfkfw.gz
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/staticwebassets.build.json
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/staticwebassets.development.json
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.dll
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/refint/ConnectFour.dll
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.pdb
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/ConnectFour.genruntimeconfig.cache
+/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/CSE_325_WEEK04/FourGame/ConnectFour/obj/Debug/net9.0/ref/ConnectFour.dll
