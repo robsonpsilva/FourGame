@@ -66,7 +66,7 @@
          var turn = State.CurrentTurn;
          var landingRow = State.PlayPiece(col);
          pieces[turn] = $"player{player} col{col} drop{landingRow}";
-         await JSRuntime.InvokeVoidAsync("playDropSound"); //Preparing to sound effect
+         await JSRuntime.InvokeVoidAsync("playDropSound"); //Preparing to sound
       }
       catch (ArgumentException ex)
       {
