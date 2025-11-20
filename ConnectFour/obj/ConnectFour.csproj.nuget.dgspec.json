@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE325\\week04\\FourGame\\ConnectFour\\ConnectFour.csproj": {}
+    "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE325\\week04\\FourGame1\\FourGame\\connectfour\\ConnectFour.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE325\\week04\\FourGame\\ConnectFour\\ConnectFour.csproj": {
+    "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE325\\week04\\FourGame1\\FourGame\\connectfour\\ConnectFour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE325\\week04\\FourGame\\ConnectFour\\ConnectFour.csproj",
+        "projectUniqueName": "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE325\\week04\\FourGame1\\FourGame\\connectfour\\ConnectFour.csproj",
         "projectName": "ConnectFour",
-        "projectPath": "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE325\\week04\\FourGame\\ConnectFour\\ConnectFour.csproj",
+        "projectPath": "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE325\\week04\\FourGame1\\FourGame\\connectfour\\ConnectFour.csproj",
         "packagesPath": "C:\\Users\\cmrs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE325\\week04\\FourGame\\ConnectFour\\obj\\",
+        "outputPath": "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE325\\week04\\FourGame1\\FourGame\\connectfour\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cmrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
